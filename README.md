@@ -1,4 +1,4 @@
-# Configuración en MacOS y Linux
+.venv\Scripts\activate# Configuración en MacOS y Linux
 
 Ejecute los siguientes comandos en el terminal:
 
